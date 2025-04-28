@@ -35,7 +35,7 @@ video {
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #8553FE; 
+    background: #4A01F3; 
 }
 
 body,
@@ -258,7 +258,7 @@ a {
 }
 
 .nav-link:hover {
-    color: #8553FE;
+    color: #4A01F3;
 }
 
 .navigation__list li:last-child .nav-link {
@@ -383,14 +383,14 @@ a {
     font-family: "Fraunces", system-ui;
     font-size: 24px;
     font-weight: 100;
-    color: #8553FE;
+    color: #4A01F3;
 }
 
 .desc-text {
     font-family: "DM Sans", sans-serif;
     font-size: 16px;
     font-weight: 400;
-    color: #8553FE;
+    color: #4A01F3;
 }
 
 .proyecto:not(:last-child) {
@@ -518,18 +518,18 @@ a {
     text-decoration: none;
     font-weight: 800;
     text-align: center;
-    background-color: #8553FE;
+    background-color: #4A01F3;
     border: 2px solid;
-    border-color: #8553FE;
+    border-color: #4A01F3;
     transition: 0.2s;
 }
 
 .text-contacto:hover {
-    color: #8553FE;
+    color: #4A01F3;
     background-color: #fff;
     border-radius: 50px;
     border: 2px solid;
-    border-color: #8553FE;
+    border-color: #4A01F3;
 }
 
 .text-contacto span {
@@ -599,8 +599,8 @@ a {
     padding: 0.75rem 2.5rem;
     border-radius: 50px;
     border: 2px solid;
-    border-color: #8553FE;
-    color: #8553FE;
+    border-color: #4A01F3;
+    color: #4A01F3;
     text-decoration: none;
     text-align: center;
     background-color: #Fff;
@@ -639,8 +639,8 @@ a {
     padding: 0.75rem 2.5rem;
     border-radius: 50px;
     border: 2px solid;
-    border-color:#8553FE;
-    color: #8553FE;
+    border-color:#4A01F3;
+    color: #4A01F3;
     text-decoration: none;
     text-align: center;
     background-color: #Fff;
@@ -648,11 +648,11 @@ a {
 
 .curriculum {
     position: relative;
-    color: #8553FE;
+    color: #4A01F3;
     padding-left: 2px;
     padding-right: 2px;
     box-shadow: inset 0 -1px 0  #F3EAFF; 
-    border-bottom: 2px solid #8553FE;
+    border-bottom: 2px solid #4A01F3;
 }
 
 .curriculum:before {
@@ -689,7 +689,7 @@ a {
 }
 
 .footer {
-    color: #8553FE;
+    color: #4A01F3;
     padding: 1.5rem 0;
     background: #F3EAFF;
 }
@@ -863,7 +863,7 @@ a {
 
     .navigation__close svg {
         width: 35px;
-        fill:#8553FE;
+        fill:#4A01F3;
     }
 
     .navigation {
@@ -881,7 +881,7 @@ a {
     }
 
     .nav-link {
-        color: #8553FE;
+        color: #4A01F3;
         font-family: "Fraunces", system-ui;
         text-transform: none;
         font-size: 2rem;
@@ -895,7 +895,7 @@ a {
         width: 0;
         height: 3px;
         margin: 4px auto 0;
-        background: #8553FE;
+        background: #4A01F3;
         transition: width .15s ease-in-out;
     }
 
@@ -904,7 +904,7 @@ a {
     }
 
     .nav-link:hover {
-        color: #8553FE;
+        color: #4A01F3;
     }
 
     .navigation__list {
@@ -992,8 +992,8 @@ a {
         padding: 0.75rem 2.5rem;
         border-radius: 50px;
         border: 2px solid;
-        border-color: #8553FE;
-        color: #8553FE;
+        border-color: #4A01F3;
+        color: #4A01F3;
         text-decoration: none;
         text-align: center;
         background-color: #Fff;
@@ -1007,8 +1007,8 @@ a {
         padding: 0.75rem 2.5rem;
         border-radius: 50px;
         border: 2px solid;
-        border-color: #8553FE;
-        color: #8553FE;
+        border-color: #4A01F3;
+        color: #4A01F3;
         text-decoration: none;
         text-align: center;
         background-color: #Fff;
@@ -1115,7 +1115,7 @@ a {
     }
 
     .nav-link.active {
-        color:#8553FE;
+        color:#4A01F3;
     }
 
     .billboard__wrapper {
